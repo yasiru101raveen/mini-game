@@ -1,0 +1,7 @@
+----- HOW TO PLAY -----
+- Press SPACE to jump
+- Avoid the nebula obstacles
+- Game ends if you hit obstacles
+- You have to pass only 100 nebulae
+- When you go more, faster the game becomes
+- Enjoy!!!!
